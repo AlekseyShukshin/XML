@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomeWork>
+	<Soft_skills>Mentor</Soft_skills>
+		<Hard_skills>
+			<Api>Postman</Api>
+			<SQL>PostgreSQL</SQL>
+			<mobile>AS</mobile>
+		</Hard_skills>
+</HomeWork>
