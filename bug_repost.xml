@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bag_report>
+  <Summary>Dont work the button in top menu</Summary>
+  <Severity>major</Severity>
+    <StR>
+      1 Open website
+      2 Click the button
+    </StR>
+  <Result>Dont work</Result>
+  <ER>after clicking on the button goes to the next page</ER>
+</Bag_report>
